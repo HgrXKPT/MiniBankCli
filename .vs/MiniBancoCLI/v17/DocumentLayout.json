@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repositorios\\MiniBancoCLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\core\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\core\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\core\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\core\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\core\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\core\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\core\\services\\contaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\core\\services\\contaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\infrastructure\\repositories\\contarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\infrastructure\\repositories\\contarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\features\\cliente\\clientemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\features\\cliente\\clientemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\features\\cliente\\clientecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\features\\cliente\\clientecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\infrastructure\\data\\minibankcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\infrastructure\\data\\minibankcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\infrastructure\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\infrastructure\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\core\\dtos\\clientedto\\criarusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\core\\dtos\\clientedto\\criarusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\core\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\core\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\core\\interfaces\\icontaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\core\\interfaces\\icontaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\core\\models\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\core\\models\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\core\\dtos\\contadto\\criarcontadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\core\\dtos\\contadto\\criarcontadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\core\\models\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\core\\models\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\core\\models\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\core\\models\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\util\\servicecollection\\myservicecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\util\\servicecollection\\myservicecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\util\\exceptions\\existinguserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\util\\exceptions\\existinguserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\minibancocli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\minibancocli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|d:\\repositorios\\minibancocli\\minibancocli\\core\\repositories\\icontarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3582474C-7C96-4764-85FB-A925D4A29D3A}|MiniBancoCLI\\MiniBancoCLI.csproj|solutionrelative:minibancocli\\core\\repositories\\icontarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CriarUsuarioDTO.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\DTOs\\ClienteDTO\\CriarUsuarioDTO.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Core\\DTOs\\ClienteDTO\\CriarUsuarioDTO.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\DTOs\\ClienteDTO\\CriarUsuarioDTO.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Core\\DTOs\\ClienteDTO\\CriarUsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T00:57:28.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Core\\Interfaces\\IClienteService.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Core\\Interfaces\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:14:10.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaService.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Services\\ContaService.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Core\\Services\\ContaService.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Services\\ContaService.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Core\\Services\\ContaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:08:43.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Core\\Services\\ClienteService.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Services\\ClienteService.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Core\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:14:18.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Infrastructure\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Infrastructure\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Infrastructure\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Infrastructure\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T21:59:38.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MiniBankContext.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Infrastructure\\Data\\MiniBankContext.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Infrastructure\\Data\\MiniBankContext.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Infrastructure\\Data\\MiniBankContext.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Infrastructure\\Data\\MiniBankContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:37:58.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Repositories\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Core\\Repositories\\IClienteRepository.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Repositories\\IClienteRepository.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Core\\Repositories\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T21:59:45.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClienteCommands.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Features\\Cliente\\ClienteCommands.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Features\\Cliente\\ClienteCommands.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Features\\Cliente\\ClienteCommands.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Features\\Cliente\\ClienteCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T21:57:12.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteMenu.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Features\\Cliente\\ClienteMenu.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Features\\Cliente\\ClienteMenu.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Features\\Cliente\\ClienteMenu.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Features\\Cliente\\ClienteMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T21:54:22.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContaRepository.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Infrastructure\\Repositories\\ContaRepository.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Infrastructure\\Repositories\\ContaRepository.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Infrastructure\\Repositories\\ContaRepository.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Infrastructure\\Repositories\\ContaRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:53:06.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Core\\Models\\Cliente.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Models\\Cliente.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Core\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:41:59.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IContaService.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Interfaces\\IContaService.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Core\\Interfaces\\IContaService.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Interfaces\\IContaService.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Core\\Interfaces\\IContaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:08:38.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Models\\Conta.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Core\\Models\\Conta.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Models\\Conta.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Core\\Models\\Conta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:43:27.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CriarContaDTO.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\DTOs\\ContaDTO\\CriarContaDTO.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Core\\DTOs\\ContaDTO\\CriarContaDTO.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\DTOs\\ContaDTO\\CriarContaDTO.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Core\\DTOs\\ContaDTO\\CriarContaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:12:25.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\App.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\App.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\App.cs",
+              "RelativeToolTip": "MiniBancoCLI\\App.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:46:49.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\appsettings.json",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\appsettings.json",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\appsettings.json",
+              "RelativeToolTip": "MiniBancoCLI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T17:55:43.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IContaRepository.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Repositories\\IContaRepository.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Core\\Repositories\\IContaRepository.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Repositories\\IContaRepository.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Core\\Repositories\\IContaRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:52:09.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Transacao.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Models\\Transacao.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Core\\Models\\Transacao.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Models\\Transacao.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Core\\Models\\Transacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:43:47.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ExistingUserException.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Util\\Exceptions\\ExistingUserException.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Util\\Exceptions\\ExistingUserException.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Util\\Exceptions\\ExistingUserException.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Util\\Exceptions\\ExistingUserException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:03:01.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MiniBancoCLI.csproj",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\MiniBancoCLI.csproj",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\MiniBancoCLI.csproj",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\MiniBancoCLI.csproj",
+              "RelativeToolTip": "MiniBancoCLI\\MiniBancoCLI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-02T18:59:05.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Program.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Program.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Program.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T02:42:47.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyServiceCollection.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Util\\ServiceCollection\\MyServiceCollection.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Util\\ServiceCollection\\MyServiceCollection.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Util\\ServiceCollection\\MyServiceCollection.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Util\\ServiceCollection\\MyServiceCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T21:14:59.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Models\\Banco.cs",
+              "RelativeDocumentMoniker": "MiniBancoCLI\\Core\\Models\\Banco.cs",
+              "ToolTip": "D:\\Repositorios\\MiniBancoCLI\\MiniBancoCLI\\Core\\Models\\Banco.cs",
+              "RelativeToolTip": "MiniBancoCLI\\Core\\Models\\Banco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:41:35.402Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
